@@ -1,0 +1,5 @@
+﻿  Unification_Algorithms.cpp
+c:\users\win 7\source\repos\unification_algorithms\unification_algorithms\unification_algorithms.cpp(175): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\win 7\source\repos\unification_algorithms\unification_algorithms\unification_algorithms.cpp(176): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\win 7\source\repos\unification_algorithms\unification_algorithms\unification_algorithms.cpp(84): warning C4101: 'a': unreferenced local variable
+  Unification_Algorithms.vcxproj -> C:\Users\win 7\source\repos\Unification_Algorithms\Debug\Unification_Algorithms.exe
